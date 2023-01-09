@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "students-skills-validator", "students-skills-validator\students-skills-validator.csproj", "{AF9E4D3F-5222-45A5-80E9-12785E7C2194}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF9E4D3F-5222-45A5-80E9-12785E7C2194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF9E4D3F-5222-45A5-80E9-12785E7C2194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF9E4D3F-5222-45A5-80E9-12785E7C2194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF9E4D3F-5222-45A5-80E9-12785E7C2194}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D728754-61DE-4C3E-81A8-295DCCFFEA75}
+	EndGlobalSection
+EndGlobal
